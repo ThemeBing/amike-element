@@ -1,0 +1,636 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Amike Element\n"
+"POT-Creation-Date: 2020-04-29 14:11+0600\n"
+"PO-Revision-Date: 2020-04-29 14:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: amike-element.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/author-widget.php:14
+msgid "Amike author here"
+msgstr ""
+
+#: inc/author-widget.php:18
+msgid "Author : amike"
+msgstr ""
+
+#: inc/author-widget.php:38
+msgid "About Author"
+msgstr ""
+
+#: inc/author-widget.php:40
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority suffered"
+msgstr ""
+
+#: inc/author-widget.php:120 inc/recent-post.php:113
+msgid "Title:"
+msgstr ""
+
+#: inc/author-widget.php:124
+msgid "Profile image:"
+msgstr ""
+
+#: inc/author-widget.php:130
+msgid "Short description:"
+msgstr ""
+
+#: inc/author-widget.php:134
+msgid "Facebook:"
+msgstr ""
+
+#: inc/author-widget.php:138
+msgid "Twitter:"
+msgstr ""
+
+#: inc/author-widget.php:142
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/author-widget.php:146
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/custom-posts.php:16
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:17
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:18
+msgctxt "admin menu"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:19
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:20
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-posts.php:21
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:22
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:23
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:24
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:25
+msgid "All Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:26
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/custom-posts.php:27
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: inc/custom-posts.php:28
+msgid "No Portfolio found."
+msgstr ""
+
+#: inc/custom-posts.php:29
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: inc/custom-posts.php:32
+msgid "Description."
+msgstr ""
+
+#: inc/custom-posts.php:46
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/custom-posts.php:47
+msgid "Add New Category"
+msgstr ""
+
+#: inc/elementor/elementor.php:10
+msgid "amike Elements"
+msgstr ""
+
+#: inc/elementor/elementor.php:23
+msgid "Templates not found."
+msgstr ""
+
+#: inc/elementor/elementor.php:25
+msgid "Select Template"
+msgstr ""
+
+#: inc/elementor/widgets/widget-address.php:14
+#: inc/elementor/widgets/widget-address.php:30
+msgid "Address"
+msgstr ""
+
+#: inc/elementor/widgets/widget-address.php:37
+msgid "Address Icon"
+msgstr ""
+
+#: inc/elementor/widgets/widget-address.php:46
+msgid "Address Title"
+msgstr ""
+
+#: inc/elementor/widgets/widget-address.php:54
+msgid "Address Desc"
+msgstr ""
+
+#: inc/elementor/widgets/widget-address.php:62
+msgid "Address URL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:14
+msgid "Banner"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:30
+msgid "Banner Image"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:38
+#: inc/elementor/widgets/widget-testimonials.php:39
+msgid "Choose Photo"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:49
+msgid "Play Button URL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:57
+#: inc/elementor/widgets/widget-counter.php:57
+#: inc/elementor/widgets/widget-pricing.php:38
+#: inc/elementor/widgets/widget-progress.php:38
+#: inc/elementor/widgets/widget-service.php:48
+#: inc/elementor/widgets/widget-tab.php:49
+#: inc/elementor/widgets/widget-timeline.php:56
+#: inc/elementor/widgets/widget-title.php:14
+#: inc/elementor/widgets/widget-title.php:30
+#: inc/elementor/widgets/widget-title.php:71
+#: inc/elementor/widgets/widget-titlelist.php:39
+#: inc/elementor/widgets/widget-titlelist.php:41
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:65
+#: inc/elementor/widgets/widget-service.php:57
+#: inc/elementor/widgets/widget-timeline.php:65
+#: inc/elementor/widgets/widget-title.php:87
+msgid "Text"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:74
+#: inc/elementor/widgets/widget-button.php:46
+#: inc/elementor/widgets/widget-pricing.php:139
+msgid "Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:83
+#: inc/elementor/widgets/widget-button.php:54
+msgid "Button URL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:92
+msgid "Video URL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:102
+#: inc/elementor/widgets/widget-counter.php:40
+#: inc/elementor/widgets/widget-pricing.php:47
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:110
+#: inc/elementor/widgets/widget-partner.php:51
+msgid "URL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-banner.php:119
+msgid "Repeater List"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:13
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:28
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:36
+msgid "Order"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:40
+msgid "Ascending"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:41
+msgid "Descending"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:81
+msgid "By"
+msgstr ""
+
+#: inc/elementor/widgets/widget-blog.php:88
+msgid "Read More"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:14
+#: inc/elementor/widgets/widget-button.php:30
+msgid "Button"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:37
+msgid "Button Icon"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:63
+msgid "Bordered"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:65
+#: inc/elementor/widgets/widget-pricing.php:165
+msgid "On"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:66
+#: inc/elementor/widgets/widget-pricing.php:166
+msgid "Off"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:76
+#: inc/elementor/widgets/widget-title.php:38
+msgid "Align"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:80
+#: inc/elementor/widgets/widget-title.php:42
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:81
+#: inc/elementor/widgets/widget-title.php:43
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/widgets/widget-button.php:82
+#: inc/elementor/widgets/widget-title.php:44
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/widgets/widget-counter.php:14
+#: inc/elementor/widgets/widget-counter.php:30
+#: inc/elementor/widgets/widget-counter.php:65
+msgid "Counter"
+msgstr ""
+
+#: inc/elementor/widgets/widget-counter.php:49
+msgid "Count"
+msgstr ""
+
+#: inc/elementor/widgets/widget-partner.php:14
+#: inc/elementor/widgets/widget-partner.php:30
+msgid "partner"
+msgstr ""
+
+#: inc/elementor/widgets/widget-partner.php:39
+msgid "logo"
+msgstr ""
+
+#: inc/elementor/widgets/widget-partner.php:53
+#: inc/elementor/widgets/widget-pricing.php:150
+msgid "https://example.com"
+msgstr ""
+
+#: inc/elementor/widgets/widget-partner.php:65
+msgid "partner list"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:14
+#: inc/elementor/widgets/widget-portfolio.php:30
+msgid "portfolio"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:38
+msgid "number of portfolio"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:56
+msgid "order"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:60
+msgid "ascending"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:61
+msgid "descending"
+msgstr ""
+
+#: inc/elementor/widgets/widget-portfolio.php:85
+msgid "All Works"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:14
+#: inc/elementor/widgets/widget-pricing.php:30
+msgid "Pricing"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:57
+msgid "Price"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:66
+msgid "Currency"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:103
+msgid "Feature"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:105
+#: inc/elementor/widgets/widget-pricing.php:129
+msgid "10 Free Domain Names"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:112
+msgid "Feature List"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:117
+msgid "5GB Storage Space"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:120
+msgid "20GB Monthly Bandwidth"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:123
+msgid "My SQL Databases"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:126
+msgid "100 Email Account"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:148
+msgid "Button TRL"
+msgstr ""
+
+#: inc/elementor/widgets/widget-pricing.php:163
+msgid "Recommended"
+msgstr ""
+
+#: inc/elementor/widgets/widget-progress.php:14
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/elementor/widgets/widget-progress.php:30
+msgid "progress"
+msgstr ""
+
+#: inc/elementor/widgets/widget-progress.php:47
+msgid "Percentage"
+msgstr ""
+
+#: inc/elementor/widgets/widget-service.php:14
+#: inc/elementor/widgets/widget-service.php:30
+msgid "service item"
+msgstr ""
+
+#: inc/elementor/widgets/widget-service.php:38
+#: inc/elementor/widgets/widget-title.php:53
+msgid "icon"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:14
+#: inc/elementor/widgets/widget-tab.php:30
+msgid "Tab"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:42
+#: inc/elementor/widgets/widget-tab.php:63
+#: inc/elementor/widgets/widget-tab.php:72
+#: inc/elementor/widgets/widget-tab.php:74
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:51
+msgid "About me"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:59
+msgid "Select Content Source"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:64
+#: inc/elementor/widgets/widget-tab.php:84
+msgid "Template"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:99
+msgid "Style"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:106
+msgid "BG Color"
+msgstr ""
+
+#: inc/elementor/widgets/widget-tab.php:118
+msgid "Tab List"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:14
+#: inc/elementor/widgets/widget-testimonials.php:30
+msgid "Testimonials"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:50
+msgid "Name"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:52
+msgid "Emaley Mcculloch"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:59
+msgid "Designation"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:61
+msgid "Founder ceo"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:67
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:69
+msgid ""
+"In promotion and of advertising testimonial show consiss of a person's "
+"written orsoken statement extollig the virtue"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:75
+msgid "Rating"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:79
+msgid "Star 1"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:80
+msgid "Star 2"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:81
+msgid "Star 3"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:82
+msgid "Star 4"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:83
+msgid "Star 5"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:84
+msgid "None"
+msgstr ""
+
+#: inc/elementor/widgets/widget-testimonials.php:91
+msgid "Testimonial List"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:14
+msgid "Timeline"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:30
+msgid "Timeline item"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:38
+msgid "Achievement"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:47
+msgid "Year"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:58
+msgid "ThemeForest"
+msgstr ""
+
+#: inc/elementor/widgets/widget-timeline.php:67
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum standard dummy text."
+msgstr ""
+
+#: inc/elementor/widgets/widget-title.php:63
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/widget-title.php:79
+msgid "Colored Title"
+msgstr ""
+
+#: inc/elementor/widgets/widget-title.php:95
+msgid "Show Title Underline"
+msgstr ""
+
+#: inc/elementor/widgets/widget-title.php:97
+msgid "Show"
+msgstr ""
+
+#: inc/elementor/widgets/widget-title.php:98
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor/widgets/widget-titlelist.php:14
+#: inc/elementor/widgets/widget-titlelist.php:30
+#: inc/elementor/widgets/widget-titlelist.php:56
+msgid "Title list"
+msgstr ""
+
+#: inc/elementor/widgets/widget-titlelist.php:47
+#: inc/elementor/widgets/widget-titlelist.php:49
+msgid "Description"
+msgstr ""
+
+#: inc/recent-post.php:14
+msgid "Amike recent post here"
+msgstr ""
+
+#: inc/recent-post.php:18
+msgid "Recent Post : amike"
+msgstr ""
+
+#: inc/recent-post.php:38
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/recent-post.php:117
+msgid "No. of Item of posts to show:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Amike Element"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://themeforest.net/item/amike-personal-portfolio-wordpress-"
+"theme/25159373"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"After install the amike WordPress Theme, you must need to install this "
+"\"amike-element\" first to get all functions of amike WP Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeBing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themebing.com"
+msgstr ""
